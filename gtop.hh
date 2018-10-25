@@ -23,7 +23,7 @@
 
 const int STATS_BUFFER_SIZE = 1024;
 
-const std::string TEGRASTATS_PATH     = "~/tegrastats";
+const std::string TEGRASTATS_PATH     = "/usr/src/app/tegrastats";
 const std::string TEGRASTATSFAKE_PATH = "./tegrastats_fake";
 
 void read_tegrastats();
